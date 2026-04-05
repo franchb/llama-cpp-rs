@@ -29,6 +29,8 @@ include = [
     "/llama.cpp/src/*.cpp",
     "/llama.cpp/src/models/*.h",
     "/llama.cpp/src/models/*.cpp",
+    "/llama.cpp/src/beam-search/*.h",
+    "/llama.cpp/src/beam-search/*.cpp",
     "/llama.cpp/tools/mtmd/*.h",
     "/llama.cpp/tools/mtmd/*.cpp",
     "/llama.cpp/tools/mtmd/models/*.h",
